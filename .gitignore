@@ -1,0 +1,10 @@
+# Ignore environment and directories
+/env
+/plots
+/datasets
+
+# Ignore R history files
+.Rhistory
+
+# Ignore all .ipynb_checkpoints folders recursively
+**/.ipynb_checkpoints/
